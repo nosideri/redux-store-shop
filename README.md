@@ -14,7 +14,7 @@ Badges hosted by [shields.io](https://shields.io/).
 * Redux
 
 ## Website
-
+https://redux-store-shop-nosideri.herokuapp.com/ 
 
 #### Preview
 * http://prntscr.com/xizvgc 
